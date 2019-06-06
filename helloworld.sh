@@ -1,5 +1,6 @@
 #!/bin/sh
 echo "Hello, world!"
+echo "This is fun"
 Year=`date +%Y`
 Month=`date +%m`
 Day=`date +%d`
